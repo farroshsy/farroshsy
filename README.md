@@ -1,4 +1,10 @@
-
+## 📈 My GitHub Stats
+<a href="https://github.com/farroshsy/farroshsy">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=farroshsy&hide=issues&show_icons=true&title_color=F9C150&icon_color=F9C150" />
+</a>
+<a href="https://github.com/farroshsy/farroshsy">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farroshsy&layout=compact&title_color=F9C150" alt="Most Used Language" />
+</a>
 
 
 <!--### Hi there 👋

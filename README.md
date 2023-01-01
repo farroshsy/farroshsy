@@ -1,4 +1,4 @@
-# 👋 Hello!, I'm Farros Hilmi Syafei
+# 👋 Hello! I'm Farros Hilmi Syafei
 
 <p align="left">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1000&vCenter=true&width=550&lines=A+problem+solver+at+heart+and+a+software+developer+by+trade;Constantly+striving+to+learn+and+improve+my+skills;One+line+of+code+at+a+time" alt="Typing SVG" /></a>

@@ -35,3 +35,11 @@
   <img height="154" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farroshsy&layout=compact&theme=react&hide=php&langs_count=6" />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farroshsy&theme=black-ice" alt="farroshsy" /></p>
 
+## Reach me
+<a href="https://www.linkedin.com/in/farroshilmisyafei//">
+  <img align="left" alt="Farros's LinkedIn" width="35px" src="https://img.icons8.com/color/48/000000/linkedin.png" />
+</a>
+<a href="https://www.instagram.com/farroshsy/?hl=id">
+  <img align="left" alt="Farros's Instagram" width="35px" src="https://img.icons8.com/color/48/000000/instagram-new.png" />
+</a>
+

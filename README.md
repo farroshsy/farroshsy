@@ -12,7 +12,7 @@
   <a href="mailto:farros.syafei@gmail.com">Email</a>
 </p>
 
-<p align="center"><b>Open to backend, data and applied-ML roles — remote or relocating.</b></p>
+<p align="center"><b>Open to fullstack, data and applied-ML roles — remote or relocating.</b></p>
 
 ---
 

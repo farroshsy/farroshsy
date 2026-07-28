@@ -1,7 +1,7 @@
 <h1 align="center">Farros Hilmi Syafei</h1>
 
 <p align="center">
-  Backend &amp; ML systems engineer · Surabaya, Indonesia<br>
+  Fullstack &amp; ML systems engineer · Surabaya, Indonesia<br>
   <em>I build systems that can be checked.</em>
 </p>
 

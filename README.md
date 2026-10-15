@@ -18,11 +18,11 @@
 
 ### 🔬 [hcie-system](https://github.com/farroshsy/hcie-system) — event-sourced adaptive tutoring system
 
-Beats BKT on cold-start over 232k learners, and every decision replays exactly.
+Matches BKT on cold-start accuracy with zero training — where deep models need pre-training — and every decision replays exactly.
 
-| cold-start AUC | scale | replay |
+| cold-start AUC | first attempt | replay |
 |:--|:--|:--|
-| **0.6051** vs BKT 0.5963 | **1.98M** rows · **232,440** learners | **bit-identical** |
+| **0.6051** · BKT 0.5963 · 93 learners | **0.62–0.76** · BKT w/o history ≈ 0.50 | **bit-identical** |
 
 ```console
 $ make parity

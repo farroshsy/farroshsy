@@ -56,7 +56,35 @@ BIT-IDENTICAL ✓  md5 3ab07694eabe0ad52c6378065cf23100
 | repo | what |
 |:--|:--|
 | [compass](https://github.com/farroshsy/compass) | iOS habit tracker: SwiftUI + widget, records signed in the Secure Enclave, 482 tests |
-| [ocr-benchmark-id](https://github.com/farroshsy/ocr-benchmark-id) | public benchmark for Indonesian document OCR, scoring rules published before results |
-| [dokumen-id](https://github.com/farroshsy/dokumen-id) · [dokumen-kit](https://github.com/farroshsy/dokumen-kit) | NIK tools that run entirely in the browser or on-device, so data never leaves you |
+| [ocr-benchmark-id](https://github.com/farroshsy/ocr-benchmark-id) | public benchmark for Indonesian document OCR, scoring rules published before results · [live](https://ocr-benchmark-id.vercel.app) |
+| [dokumen-id](https://github.com/farroshsy/dokumen-id) · [dokumen-kit](https://github.com/farroshsy/dokumen-kit) | NIK tools that run entirely in the browser or on-device, so data never leaves you · [live](https://dokumen-id.vercel.app) |
 | [replay-backtest](https://github.com/farroshsy/replay-backtest) | a backtester where lookahead bias is structurally impossible |
-| [farroshsyportfolio](https://github.com/farroshsy/farroshsyportfolio) | my portfolio site, Next.js 16 + a live OCR demo |
+| [rota](https://github.com/farroshsy/rota) | self-hostable on-call alerting in a single Rust binary |
+| [farroshsyportfolio](https://github.com/farroshsy/farroshsyportfolio) | my portfolio site: case studies, projects and experience (Next.js 16) |
+
+---
+
+### Tech stack
+
+**Daily drivers**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=py,ts,js,swift,rust,react,nextjs,nodejs,express,fastapi,tailwind,postgres,redis,kafka,docker,githubactions,git,linux" alt="Python, TypeScript, JavaScript, Swift, Rust, React, Next.js, Node.js, Express, FastAPI, Tailwind, PostgreSQL, Redis, Kafka, Docker, GitHub Actions, Git, Linux" />
+</p>
+
+**Also used** (coursework and side projects)
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,c,cpp,flutter,firebase,threejs,html,css" alt="Java, C, C++, Flutter, Firebase, Three.js, HTML, CSS" />
+</p>
+
+AI / data: PaddleOCR · YOLO · Tesseract · PySpark · Jupyter · knowledge tracing · multi-armed bandits
+
+---
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/farroshsy/farroshsy/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="Contribution graph eaten by a snake" src="https://raw.githubusercontent.com/farroshsy/farroshsy/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+</p>
